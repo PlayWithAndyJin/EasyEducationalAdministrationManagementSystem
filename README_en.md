@@ -11,7 +11,27 @@ The `api.py` file in this project is based on and adapted from <a href="https://
 This program has been adapted to PC Web end and mobile device Web end. However, because the educational administration system will detect whether an automated program is used, and will refuse access to the server, it is obvious that an error is reported after entering the student number and password: the educational administration system hangs up. If you can solve the problem that access to the server is denied by the educational administration system, you can contact me and kneel down~
 
 ## Version Instruction
-The currently developed version is divided into "Developing Release version" and "Stable Release version". The Developing Release version is a preview version of the stable release version. Generally, new optimization ideas and new supported functions will be launched in the Developing Release version, while the stable release version is significantly optimized on the basis of the updated version to run more stably. For example, friends who are interested in new features can first experience the Developing Release version, and problems can be raised at any time.
+The currently developed version is divided into "Developing Release version" and "Stable Release version". The Developing Release version is a preview version of the stable release version. Generally, new optimization ideas and new supported functions will be launched in the Developing Release version, while the stable release version is significantly optimized on the basis of the updated version to run more stably. For example, friends who are interested in new features can first experience the Developing Release version, and problems can be raised at any time.The following is a list of recommended versions.
+<table>
+   <th>
+      Version Number
+   </th>
+   <th>
+      recommendation
+   </th>
+   <tr>
+      <th>
+         v1.0.136 Stable
+      </th>
+      <th>Recommend! The Latest Stable Version</th>
+   </tr>
+   <tr>
+      <th>
+         v1.0.140 Developing
+      </th>
+      <th>Try Waiting ...</th>
+   </tr>
+</table>
 
 ## Main Features
 
