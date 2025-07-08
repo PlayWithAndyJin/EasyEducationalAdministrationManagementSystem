@@ -182,7 +182,7 @@ easy-eam/
 
 
 ## Notes
-
+- Do not deploy the project to the server, because the educational administration system will judge whether an automated program is used.
 - This system is for learning and communication only. Commercial or illegal use is strictly prohibited.
 - Only students with valid educational system accounts can use it.
 - Login and operation logs only keep necessary info; sensitive data is never recorded.
