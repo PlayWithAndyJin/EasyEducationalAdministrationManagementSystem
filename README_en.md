@@ -21,8 +21,8 @@ The `api.py` file in this project is based on and adapted from <a href="https://
 - **Secure Logout**: One-click secure logout.
 - **Examination Arrangement**: View the arrangement of the examination room of the current semester.
 
-![Login Page](img/%E6%88%AA%E5%B1%8F2025-07-04%2019.50.39.png)
-![Home Page](img/%E6%88%AA%E5%B1%8F2025-07-05%2021.07.32.png)
+![Login Page](login.png)
+![Home Page](home.png)
 
 ## Adapting to Other University Educational Systems
 
